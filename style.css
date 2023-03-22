@@ -9,12 +9,14 @@
 .navbar li{
     padding: 14px 18px;
     overflow: hidden;
+    justify-content: center;
     margin: auto;
   }
   .navbar a {
     color: white;
     text-decoration: none;
     font-size: 34px;
+    justify-content: center;
   }
   .navbar img{
     width: 5%;
