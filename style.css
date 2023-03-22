@@ -1,0 +1,53 @@
+.navbar{
+    list-style: none;
+    display: flex;
+    background-color: #333;
+    margin: auto;
+}
+
+.navbar li{
+    padding: 28px 18px;
+    overflow: hidden;
+    margin: auto;
+  }
+  .navbar a {
+    color: #f2f2f2;
+    text-decoration: none;
+    font-size: 34px;
+  }
+  .navbar img{
+    width: 5%;
+    
+  }
+  
+
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .navbar a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
+#Search{
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 75%;
+}
+
+#login{
+    font-size: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+  
