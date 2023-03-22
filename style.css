@@ -6,7 +6,7 @@
 }
 
 .navbar li{
-    padding: 28px 18px;
+    padding: 14px 18px;
     overflow: hidden;
     margin: auto;
   }
@@ -17,7 +17,9 @@
   }
   .navbar img{
     width: 5%;
-    
+    margin-right: 100px;
+    padding: 14px 18px;
+    background-color: black;
   }
   
 
